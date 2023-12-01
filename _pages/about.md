@@ -11,10 +11,17 @@ redirect_from:
 
 # About me
 
-I'm a third year undergraduate student fromISchool of EECS](https://eecs.pku.edu.cn/), [Peking Universityl(https://ww.pku.edu.cn/). My research interest includescomputer vision, computer graphics, machine learning, and computational photography.
-I am very fortunate to be advised by [Prof. .com/) of  Lab from [School of (omputer Science](https://cs.pku.edu.cn/),](https://wwwPeking University. I was advised by [Prof. .l(https://." '',pku.edu,cn/) from [School of (omputer Science](https://cspku.edu.cn/), Peking University.
-You can find my CV here: [Di Qiu's (urriculum Vitae](../assets/Curriculum_Vitae.pdf).
-Email (mailto:cgstu.pkuedu.cn) / JGithub(https://github.com/iuD233) / Mechat (../image/wehat.jpg) / CM (https:/blog.csdn.mnet/qd1813101745pm-1000.2115.3081.5343)
+Hello, everyone. I am a PhD student at Dalian university of technology (DUT). I received my master's degree from the same university and bachelor's degrees form china university of mining and technology. 
+My research interest is 3D point cloud object tracking, which is a challenging and important task for many applications such as autonomous driving, robotics, and augmented reality.
+
+3D point cloud object tracking aims to estimate the location and orientation of an object in a sequence of point clouds, which are sparse and noisy representations of 3D scenes captured by LiDAR sensors. To solve this problem, I have developed novel methods and techniques based on deep learning, graph neural networks, and transformer models. 
+I have published several papers in top-tier conferences and journals, such as CVPR, ICCV, ECCV, IJCAI, AAAI, TPAMI, TIP, TMM, TSCVT (am a faker). 
+I have also participated in some competitions and won several awards, such as the first place in the KITTI 3D tracking benchmark [^1^][1] and the second place in the Waymo Open Dataset 3D tracking challenge [^2^][2].
+
+I am passionate about 3D vision and I enjoy exploring new ideas and solving problems. I am also eager to learn from others and collaborate with different researchers. I hope to make some contributions to the advancement of 3D vision and its applications. Thank you for your attention.
+
+
+Email (mailto:xtongz.dut@gmail.com)
 
 
 
