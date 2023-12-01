@@ -16,7 +16,7 @@ My research interest are point cloud understanding, 3D point cloud object tracki
 
 3D point cloud object tracking aims to estimate the location and orientation of an object in a sequence of point clouds, which are sparse and noisy representations of 3D scenes captured by LiDAR sensors. To solve this problem, I have developed novel methods and techniques based on deep learning, graph neural networks, and transformer models. 
 
-I have designed a plan for publishing several papers in top-tier conferences and journals, such as 
+I have designed a plan list for publishing several papers in top-tier conferences and journals, such as 
 - [ ] CVPR  
 - [ ] ICCV
 - [ ] ECCV
