@@ -26,10 +26,9 @@ I have designed a plan list for publishing several papers in top-tier conference
 - [ ] TIP
 - [X] TMM. 
 
+# 加油，努力！！
 
-
-
-Email (mailto:xtongz.dut@gmail.com)
+Email (xtongz.dut@gmail.com)
 
 
 
